@@ -54,7 +54,7 @@ New-AzResourceGroup -Name $resourceGroup -Location $location
 Create NIC
 
 ```
-$nic = New-AzNetworkInterface -ResourceGroupName $resourceGroup -Location $location -Name psvmnic01 -SubnetID "/subscriptions/91fefe18-f87c-4d2a-91b6-fd143ad44626/resourceGroups/RG-AZ300-network-001/providers/Microsoft.Network/virtualNetworks/vNet-we-hub-001/subnets/Sub1"
+$nic = New-AzNetworkInterface -ResourceGroupName $resourceGroup -Location $location -Name psvmnic01 -SubnetID "/subscriptions/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/resourceGroups/RG-AZ300-network-001/providers/Microsoft.Network/virtualNetworks/vNet-we-hub-001/subnets/Sub1"
 ```
 
 ```PS
