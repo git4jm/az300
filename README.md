@@ -17,6 +17,7 @@
 [Quick start templates MS](https://azure.microsoft.com/en-us/resources/templates/)
 
 Knowledge
+
 [Azure Citadel](https://azurecitadel.com/)
 
 [MS learn](https://docs.microsoft.com/en-us/learn/)
@@ -24,6 +25,7 @@ Knowledge
 [Hands-on Labs](https://www.microsoft.com/handsonlabs/selfpacedlabs)
 
 Exam
+
 [Exam AZ-300](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300)
 
 [New AZ-303](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
