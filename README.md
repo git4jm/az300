@@ -31,6 +31,3 @@ Exam
 [New AZ-303](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
 
 [AZ-303 info](https://build5nines.com/az-303-microsoft-azure-architect-technologies-certification-exam/)
-[]()
-[]()
-[]()
