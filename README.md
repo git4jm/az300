@@ -6,6 +6,10 @@
 
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
+[Azure reference architectures](https://docs.microsoft.com/azure/architecture/reference-architectures/)
+
+[Cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
 [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator)
 
 [Storage](https://azure.microsoft.com/en-us/pricing/details/storage/)
@@ -31,3 +35,7 @@ Exam
 [New AZ-303](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
 
 [AZ-303 info](https://build5nines.com/az-303-microsoft-azure-architect-technologies-certification-exam/)
+
+Certification Path
+
+[MS Certifications March 2020](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
